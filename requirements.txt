@@ -1,0 +1,7 @@
+matplotlib
+sqlite3
+pandas
+numpy
+pathlib
+faker
+unidecode
