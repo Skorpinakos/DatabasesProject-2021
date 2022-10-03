@@ -1,6 +1,6 @@
 # Db-project-team-10
 
-11st way:
+1st way:
 
 
 Install all the python packages in the requirements.txt and use python 3.7 (others might work too).
